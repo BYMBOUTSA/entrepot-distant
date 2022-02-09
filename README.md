@@ -1,3 +1,3 @@
-# entrepot-distant
+# Initialisation du fichier
 
-Initialisation du README
+Ajout d'informations
